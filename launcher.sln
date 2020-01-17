@@ -3,12 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29409.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[hnt] Launcher", "[hnt] Launcher\[hnt] Launcher.csproj", "{C8EAC07E-1509-4C72-AAF9-E909C5E41894}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "launcher", "[hnt] Launcher\launcher.csproj", "{C8EAC07E-1509-4C72-AAF9-E909C5E41894}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
+		Description = [hnt] Launcher
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{C8EAC07E-1509-4C72-AAF9-E909C5E41894}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
